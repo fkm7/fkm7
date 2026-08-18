@@ -2,7 +2,7 @@
 
 **Full-stack Dart developer — I build mobile apps and the backends behind them.**
 
-5+ years of Flutter, now shipping end-to-end in Dart: Flutter on the front, Dart Frog + PostgreSQL on the back.
+5+ years of Flutter, now shipping end-to-end in Dart: Flutter on the front, Serverpod/Dart Frog + PostgreSQL on the back.
 
 ---
 
@@ -31,7 +31,6 @@ Layered architecture with strict dependency rules. State via BLoC/Cubit, reactiv
 ## 🎯 Now
 
 - Shipping a full-stack Dart app end to end
-- Deepening my algorithms & data structures fundamentals
 
 ---
 
