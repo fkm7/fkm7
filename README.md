@@ -22,7 +22,7 @@ End-to-end Dart applications — the whole stack, one language.
 
 Layered architecture with strict dependency rules. State via BLoC/Cubit, reactive plumbing with RxDart where it earns its place. Tested with `unit tests`, `widget tests`, and golden tests in CI.
 
-**Stack:** Flutter · Dart Frog · PostgreSQL · RxDart · GetIt · GoRouter · Docker · GitHub Actions
+**Stack:** Flutter · Provider/BLoC/Riverpod · Serverpod · Dart Frog · PostgreSQL · RxDart · GetIt · GoRouter · Docker · GitHub Actions
 
 **Currently exploring:** Jaspr for Dart-native web · compiler internals & WebAssembly
 
