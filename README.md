@@ -10,11 +10,11 @@
 
 End-to-end Dart applications — the whole stack, one language.
 
-- **Flutter + BLoC** with Clean Architecture (presentation / domain / data, unidirectional dependencies)
+- **Flutter + BLoC** with Clean Architecture (presentation / domain / data, unidirectional data flow)
 - **Dart Frog backends** — JWT auth with refresh token rotation, multipart uploads, middleware-based auth context
 - **Real-time features** — live map tracking with WebSockets and RxDart streams
 - **Production-grade CI/CD** — GitHub Actions, Codemagic, Fastlane match for iOS signing, covered with tests
-- **Dockerized** services with multi-stage builds and `docker-compose` for local Postgres
+- **Dockerized** services with multi-stage builds
 
 ---
 
@@ -36,4 +36,4 @@ Layered architecture with strict dependency rules. State via BLoC/Cubit, reactiv
 
 ## 📫 Reach me
 
-[Email](mailto:farrukh.muhamedov@icloud.com) · [Telegram](https://t.me/felixcat97)
+[Email](mailto:farrukh.muhamedov@gmail.com) · [Telegram](https://t.me/felixmedov97)
